@@ -1,0 +1,5 @@
+computer_chose_msg = "Computer Chose:"
+draw_msg = "Look's like it's a draw. What a life, huh?"
+you_lost_msg = "The computer beat you. Man, the robot uprising is already happening, huh?"
+you_won_msg = "You WON! You really are the superior being. Congratulations!"
+invalid_choice_msg = "Looks like you chose invalid number. That means you loose! Goodbye!"
