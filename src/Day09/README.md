@@ -10,4 +10,4 @@ With these tools, we can now handle and organize data in far more sophisticated 
 1. **Dictionaries**  
 *Learned how to store and manage data using key-value pairs for efficient lookups and updates.*
 2. **Nesting**  
-*xplored nested dictionaries and lists to represent and work with complex, hierarchical data structures.*
+*Explored nested dictionaries and lists to represent and work with complex, hierarchical data structures.*
