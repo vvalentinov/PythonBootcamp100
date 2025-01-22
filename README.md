@@ -29,3 +29,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |07|[Hangman](src/Day07/main.py)|
 |08|[Caesar Cipher](src/Day08/caesar_cipher.py)|
 |09|[Secret Auction](src/Day09/secret_auction.py)|
+|10|[Calculator](src/Day10/calculator.py)|
