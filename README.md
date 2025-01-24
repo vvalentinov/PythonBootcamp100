@@ -31,3 +31,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |09|[Secret Auction](src/Day09/secret_auction.py)|
 |10|[Calculator](src/Day10/calculator.py)|
 |11|[Blackjack](src/Day11/main.py)|
+|12|[Number Guessing Game](src/Day12/main.py)|
