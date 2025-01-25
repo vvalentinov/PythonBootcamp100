@@ -33,3 +33,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |11|[Blackjack](src/Day11/main.py)|
 |12|[Number Guessing Game](src/Day12/main.py)|
 |13|[Debugging](src/Day13)|
+|14|[Higher Lower Game](src/Day14/main.py)|
