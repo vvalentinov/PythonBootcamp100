@@ -42,3 +42,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |15|[Coffee Machine](src/Day15/main.py)|
 |16|[Object Oriented Programming(OOP)](src/Day16/coffee_machine/main.py)|
 |17|[Quiz Project](src/Day17/main.py)|
+|18|[Damien Hirst's Dot Painting](src/Day18/main.py)|
