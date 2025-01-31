@@ -44,3 +44,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |17|[Quiz Project](src/Day17/main.py)|
 |18|[Damien Hirst's Dot Painting](src/Day18/main.py)|
 |19|[Turtle Race](src/Day19/turtle_race.py)|
+|20|[Snake Game Part One](src/Day20/main.py)|
