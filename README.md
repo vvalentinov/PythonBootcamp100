@@ -20,29 +20,30 @@ This repository contains all my projects, challenges, and learning notes from th
   
 | Day| Project|
 | :---:  | :---:   |
-|01|[Band Name Generator](src/Day01/bandNameGenerator.py)|
-|02|[Tip Calculator](src/Day02/tipCalculator.py)|
-|03|[Treasure Island](src/Day03/treasure_island.py)|
-|04|[Rock, Paper or Scissors](src/Day04/rock_paper_scissors_game.py)|
-|05|[Password Generator](src/Day05/password_generator_hard.py)|
+|01|[Band Name Generator](src/Day01)|
+|02|[Tip Calculator](src/Day02)|
+|03|[Treasure Island](src/Day03)|
+|04|[Rock, Paper or Scissors](src/Day04)|
+|05|[Password Generator](src/Day05)|
 |06|[Escaping The Maze](src/Day06)|
-|07|[Hangman](src/Day07/main.py)|
-|08|[Caesar Cipher](src/Day08/caesar_cipher.py)|
-|09|[Secret Auction](src/Day09/secret_auction.py)|
-|10|[Calculator](src/Day10/calculator.py)|
-|11|[Blackjack](src/Day11/main.py)|
-|12|[Number Guessing Game](src/Day12/main.py)|
+|07|[Hangman](src/Day07)|
+|08|[Caesar Cipher](src/Day08)|
+|09|[Secret Auction](src/Day09)|
+|10|[Calculator](src/Day10)|
+|11|[Blackjack](src/Day11)|
+|12|[Number Guessing Game](src/Day12)|
 |13|[Debugging](src/Day13)|
-|14|[Higher Lower Game](src/Day14/main.py)|
+|14|[Higher Lower Game](src/Day14)|
 
 ## 📈 Intermediate
 
 | Day| Project|
 | :---:  | :---:   |
-|15|[Coffee Machine](src/Day15/main.py)|
-|16|[Object Oriented Programming(OOP)](src/Day16/coffee_machine/main.py)|
-|17|[Quiz Project](src/Day17/main.py)|
-|18|[Damien Hirst's Dot Painting](src/Day18/main.py)|
-|19|[Turtle Race](src/Day19/turtle_race.py)|
-|20|[Snake Game Part One](src/Day20/main.py)|
-|21|[Snake Game Part Two](src/Day21/main.py)|
+|15|[Coffee Machine](src/Day15)|
+|16|[Object Oriented Programming(OOP)](src/Day16)|
+|17|[Quiz Project](src/Day17)|
+|18|[Damien Hirst's Dot Painting](src/Day18)|
+|19|[Turtle Race](src/Day19)|
+|20|[Snake Game Part One](src/Day20)|
+|21|[Snake Game Part Two](src/Day21)|
+|22|[Famous Arcade Pong Game](src/Day22)|
