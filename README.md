@@ -48,3 +48,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |21|[Snake Game Part Two](src/Day21)|
 |22|[Famous Arcade Pong Game](src/Day22)|
 |23|[Turtle Crossing Capstone Project](src/Day23)|
+|24|[Mail Merge Challenge](src/Day24)|
