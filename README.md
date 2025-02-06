@@ -50,3 +50,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |23|[Turtle Crossing Capstone Project](src/Day23)|
 |24|[Mail Merge Challenge](src/Day24)|
 |25|[U.S. Guessing Game](src/Day25)|
+|26|[NATO Alphabet Project](src/Day26)|
