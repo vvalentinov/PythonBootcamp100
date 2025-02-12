@@ -56,3 +56,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |29|[Password Manager GUI Project Part One](src/Day29)|
 |30|[Password Manager GUI Project Part Two](src/Day30)|
 |31|[Flash Card App Capstone Project](src/Day31)|
+|32|[Automated Email Birthday Wisher Project](src/Day32)|
