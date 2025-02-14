@@ -58,3 +58,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |31|[Flash Card App Capstone Project](src/Day31)|
 |32|[Automated Email Birthday Wisher Project](src/Day32)|
 |33|[ISS Overhead Email Notifier Project](src/Day33)|
+|34|[The Quizzler GUI Project](src/Day34)|
