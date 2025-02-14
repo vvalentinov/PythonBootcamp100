@@ -5,7 +5,7 @@ Today was all about working with third-party APIs in Python! We focused on two p
 ### What We Covered:
 
 ✅ **OpenWeatherMap API** – We learned how to make HTTP requests to retrieve weather data based on location (latitude & longitude). We explored how to parse JSON responses and extract useful information like temperature, humidity, and weather conditions.  
-✅ **Twilio API for SMS** – Using Twilio’s Python library (twilio.rest.Client), we learned how to send text messages directly from our Python scripts. We also explored Twilio’s limitations for trial accounts, verified numbers, and how to troubleshoot common errors.
+✅ **Twilio API for SMS** – Using Twilio’s Python library (twilio.rest.Client), we learned how to send text messages directly from our Python scripts. We also explored Twilio’s limitations for trial accounts, verified numbers, and how to troubleshoot common errors.  
 ✅ **Environment Variables & API Security** – Since APIs require secret keys, we learned the importance of keeping credentials safe by storing them in environment variables instead of hardcoding them in our scripts. We practiced using ```os.environ.get()``` to access these variables securely.
 
 ### Hands-On Practice:
