@@ -60,3 +60,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |33|[ISS Overhead Email Notifier Project](src/Day33)|
 |34|[The Quizzler GUI Project](src/Day34)|
 |35|[Weather Alert Messenger Project](src/Day35)|
+|36|[Stock News Monitoring Project](src/Day36)|
