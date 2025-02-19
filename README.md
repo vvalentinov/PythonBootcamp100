@@ -64,3 +64,4 @@ This repository contains all my projects, challenges, and learning notes from th
 |37|[Habit Tracking Project](src/Day37)|
 |38|[Workout Tracking Project With Google Sheets](src/Day38)|
 |39|[Flight Deal Finder Part 1](src/Day39)|
+|40|[Flight Deal Finder Part 2](src/Day40)|

@@ -1,6 +1,6 @@
 import requests
 
-BASE_ENDPOINT = "https://api.sheety.co/0b333d2063ece5984a9e0dce90ac0a1d/flightDeals/prices"
+BASE_ENDPOINT = "https://api.sheety.co/********************************/flightDeals/prices"
 
 
 class DataManager:
