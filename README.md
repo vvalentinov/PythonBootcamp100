@@ -37,25 +37,30 @@ This repository contains all my projects, challenges, and learning notes from th
 
 ## 📈 Intermediate
 
+| Day |                        Project                         |
+| :-: | :----------------------------------------------------: |
+| 15  |              [Coffee Machine](src/Day15)               |
+| 16  |     [Object Oriented Programming(OOP)](src/Day16)      |
+| 17  |               [Quiz Project](src/Day17)                |
+| 18  |        [Damien Hirst's Dot Painting](src/Day18)        |
+| 19  |                [Turtle Race](src/Day19)                |
+| 20  |            [Snake Game Part One](src/Day20)            |
+| 21  |            [Snake Game Part Two](src/Day21)            |
+| 22  |          [Famous Arcade Pong Game](src/Day22)          |
+| 23  |     [Turtle Crossing Capstone Project](src/Day23)      |
+| 24  |           [Mail Merge Challenge](src/Day24)            |
+| 25  |            [U.S. Guessing Game](src/Day25)             |
+| 26  |           [NATO Alphabet Project](src/Day26)           |
+| 27  | [Miles to Kilometers Converter GUI Project](src/Day27) |
+| 28  |        [Pomodoro Timer GUI Project](src/Day28)         |
+| 29  |   [Password Manager GUI Project Part One](src/Day29)   |
+| 30  |   [Password Manager GUI Project Part Two](src/Day30)   |
+| 31  |      [Flash Card App Capstone Project](src/Day31)      |
+
+## 🚀 Intermediate +
+
 | Day |                         Project                          |
 | :-: | :------------------------------------------------------: |
-| 15  |               [Coffee Machine](src/Day15)                |
-| 16  |      [Object Oriented Programming(OOP)](src/Day16)       |
-| 17  |                [Quiz Project](src/Day17)                 |
-| 18  |         [Damien Hirst's Dot Painting](src/Day18)         |
-| 19  |                 [Turtle Race](src/Day19)                 |
-| 20  |             [Snake Game Part One](src/Day20)             |
-| 21  |             [Snake Game Part Two](src/Day21)             |
-| 22  |           [Famous Arcade Pong Game](src/Day22)           |
-| 23  |      [Turtle Crossing Capstone Project](src/Day23)       |
-| 24  |            [Mail Merge Challenge](src/Day24)             |
-| 25  |             [U.S. Guessing Game](src/Day25)              |
-| 26  |            [NATO Alphabet Project](src/Day26)            |
-| 27  |  [Miles to Kilometers Converter GUI Project](src/Day27)  |
-| 28  |         [Pomodoro Timer GUI Project](src/Day28)          |
-| 29  |    [Password Manager GUI Project Part One](src/Day29)    |
-| 30  |    [Password Manager GUI Project Part Two](src/Day30)    |
-| 31  |       [Flash Card App Capstone Project](src/Day31)       |
 | 32  |   [Automated Email Birthday Wisher Project](src/Day32)   |
 | 33  |     [ISS Overhead Email Notifier Project](src/Day33)     |
 | 34  |          [The Quizzler GUI Project](src/Day34)           |
