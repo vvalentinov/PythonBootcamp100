@@ -76,3 +76,4 @@ This repository contains all my projects, challenges, and learning notes from th
 | Day |                      Project                       |
 | :-: | :------------------------------------------------: |
 | 41  | [Intro To HTML - Movie Ranking Project](src/Day41) |
+| 42  |        [Birthday Invite Project](src/Day42)        |
