@@ -79,3 +79,7 @@ This repository contains all my projects, challenges, and learning notes from th
 | 42  |        [Birthday Invite Project](src/Day42)        |
 | 43  |         [Colour Vocab Project](src/Day43)          |
 | 44  |      [Motivational Poster Project](src/Day44)      |
+
+## 🚀 Intermediate +
+
+| 45 | [Web Scraping 100 Movies To Watch Project](src/Day45) |
