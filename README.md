@@ -85,3 +85,4 @@ This repository contains all my projects, challenges, and learning notes from th
 | Day |                        Project                        |
 | :-: | :---------------------------------------------------: |
 | 45  | [Web Scraping 100 Movies To Watch Project](src/Day45) |
+| 46  |         [Spotify Playlist Project](src/Day46)         |
