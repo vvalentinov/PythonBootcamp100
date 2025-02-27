@@ -87,3 +87,4 @@ This repository contains all my projects, challenges, and learning notes from th
 | 45  | [Web Scraping 100 Movies To Watch Project](src/Day45) |
 | 46  |         [Spotify Playlist Project](src/Day46)         |
 | 47  |  [Automated Amazon Price Tracker Project](src/Day47)  |
+| 48  |     [Cookie Game Playing Bot Project](src/Day48)      |
